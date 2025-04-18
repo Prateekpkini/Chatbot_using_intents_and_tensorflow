@@ -1,0 +1,4 @@
+nltk
+streamlit
+scikit-learn
+tensorflow

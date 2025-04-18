@@ -1,0 +1,36 @@
+User Input,Chatbot Response,Timestamp
+Hey,Hey,2025-04-09 17:31:21
+How are you,I am a chatbot,2025-04-09 17:31:31
+Budget,"A good budgeting strategy is to use the 50/30/20 rule. This means allocating 50% of your income towards essential expenses, 30% towards discretionary expenses, and 20% towards savings and debt repayment.",2025-04-09 17:31:47
+Hey,"I may not have personal preferences, but I can help you find movies based on your taste!",TensorFlow Neural Network,0.007515111,2025-04-09 22:11:06
+who are you,"As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",TensorFlow Neural Network,0.007515111,2025-04-09 22:11:24
+About,"As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",TensorFlow Neural Network,0.007515111,2025-04-09 22:11:38
+About ,"As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",TensorFlow Neural Network,0.007515111,2025-04-09 22:11:50
+Movies,"As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",TensorFlow Neural Network,0.007515111,2025-04-09 22:12:28
+How are yoy,"As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",TensorFlow Neural Network,0.007515111,2025-04-09 22:12:49
+How are you,"I may not have personal preferences, but I can help you find movies based on your taste!",TensorFlow Neural Network,0.007515111,2025-04-09 22:12:51
+What is Budget,"I may not have personal preferences, but I can help you find movies based on your taste!",TensorFlow Neural Network,0.007515111,2025-04-09 22:13:02
+What is Budget,I can answer questions and provide assistance,Logistic Regression,0.009626564725323767,2025-04-09 22:13:18
+budget,"To make a budget, start by tracking your income and expenses. Then, allocate your income towards essential expenses like rent, food, and bills. Next, allocate some of your income towards savings and debt repayment. Finally, allocate the remainder of your income towards discretionary expenses like entertainment and hobbies.",Logistic Regression,0.01222243238579569,2025-04-09 22:13:31
+how are you,I can answer questions and provide assistance,Logistic Regression,0.022667460515375326,2025-04-09 22:13:43
+Hii,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",Logistic Regression,0.006860656513102403,2025-04-09 22:13:58
+Hey,"I'm fine, thank you",Logistic Regression,0.01693958984487856,2025-04-09 22:14:09
+hey,Hi there,Logistic Regression,0.01693958984487856,2025-04-09 22:15:03
+how are you,I am a chatbot,Logistic Regression,0.022667460515375326,2025-04-09 22:15:10
+What i,I can answer questions and provide assistance,Logistic Regression,0.013948913526225043,2025-04-09 22:15:33
+I am happy,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",Logistic Regression,0.006827196510564707,2025-04-09 22:15:42
+hy,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",Logistic Regression,0.006860656513102403,2025-04-11 13:04:49
+hii,Growing a vegetable garden allows you to enjoy fresh produce and connect with nature.,Logistic Regression,0.006860656513102403,2025-04-11 13:04:58
+bugdet,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",Logistic Regression,0.006860656513102403,2025-04-11 13:05:03
+bugdet,Growing a vegetable garden allows you to enjoy fresh produce and connect with nature.,TensorFlow Neural Network,0.0073163924,2025-04-11 13:05:07
+bugdet,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",Logistic Regression,0.006860656513102403,2025-04-11 13:05:29
+bugdet,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",TensorFlow Neural Network,0.0073163924,2025-04-11 13:05:31
+how are you,"Gardening tips include choosing the right plants for your climate, watering properly, and using organic fertilizers.",TensorFlow Neural Network,0.0073163924,2025-04-11 13:06:23
+how are you,I can answer questions and provide assistance,Logistic Regression,0.022667460515375326,2025-04-11 13:06:33
+hey,Nothing much,Logistic Regression,0.01693958984487856,2025-04-11 13:09:21
+hey,"I'm fine, thank you",Logistic Regression,0.01693958984487856,2025-04-11 13:15:02
+who are you,My purpose is to assist you,Logistic Regression,0.0264626996947769,2025-04-11 13:15:08
+hey,Nothing much,Logistic Regression,0.01693958984487856,2025-04-11 13:21:05
+what is current weather,I can answer questions and provide assistance,Logistic Regression,0.009640305196396116,2025-04-11 13:21:13
+what is weather,My purpose is to assist you,Logistic Regression,0.009640305196396116,2025-04-11 13:21:26
+Hey,"I'm fine, thank you",Logistic Regression,0.01693958984487856,2025-04-11 14:11:58
